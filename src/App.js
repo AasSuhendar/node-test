@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          React Apps Deploy by CI/CD Jenkins Openshift
         </a>
       </header>
     </div>
